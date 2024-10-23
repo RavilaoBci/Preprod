@@ -1,3 +1,29 @@
 {
-    "contenido": "{\"meta\":{\"name\":\"Condiciones PNOL\",\"slug\":\"condiciones-pnol\",\"tags\":[],\"type\":\"legalesprivado\",\"uuid\":\"c9aab26d-434d-44c7-a514-af646caa42a8\",\"space\":\"pyme\",\"author\":{},\"locale\":\"es\",\"excerpt\":\"\",\"private\":false,\"targets\":[],\"category\":null,\"created_at\":\"2024-10-11T11:40:03.000-03:00\",\"updated_at\":\"2024-10-11T11:40:44.000-03:00\",\"published_at\":\"2024-10-11T11:40:44.000-03:00\",\"unpublish_at\":null,\"version_type\":\"current\",\"category_name\":null,\"category_slug\":null,\"available_locales\":[\"es\"]},\"fields\":{\"Contenido_html\":\"\\u003cp\\u003eCondiciones de Servicio.\\u003c/p\\u003e\\u003cul\\u003e\\u003cli\\u003e\\u003cp\\u003ePermite efectuar Abonos en el día a Cuentas Corrientes o Vistas del Bci u Otros Bancos en forma masiva.\\u003c/p\\u003e\\u003c/li\\u003e\\u003cli\\u003e\\u003cp\\u003eOpera todos los días de la semana, excepto entre las 22:45 y las 00:00 Hrs. donde no es posible recepcionar ni procesar nóminas de pago. Las nóminas diferidas deberán ser firmadas antes de las 23:30.\\u003c/p\\u003e\\u003c/li\\u003e\\u003cli\\u003e\\u003cp\\u003eAl momento de ejecutarse el pago de la nómina, se realizará un cargo único en la cuenta corriente del cliente pagador\\u003c/p\\u003e\\u003c/li\\u003e \\u003cli\\u003e\\u003cp\\u003eEn caso que existiese pagos rechazados durante el proceso de pago, los fondos serán abonados en la cuenta corriente del cliente pagador las próximas horas.\\u003c/p\\u003e\\u003c/li\\u003e\\u003cli\\u003e\\u003cp\\u003eAl momento de firmar el último Apoderado autorizado la nomina modalidad de pago en línea y no posea los fondos disponibles en ese momento, la nómina podrá pasar a modalidad diferida con el consentimiento del cliente, a la espera de la disponibilidad de los fondos en cuenta corriente, hasta las 23:45 Hrs.\\u003c/p\\u003e\\u003c/li\\u003e\\u003cli\\u003e\\u003cp\\u003eAl momento de ejecutarse el pago de la nómina, independiente de la modalidad de cargo (en línea o diferida) y la cuenta corriente no posea los fondos disponibles, la nómina no será pagada y esta quedará sin fondos.\\u003c/p\\u003e\\u003c/li\\u003e \\u003cli\\u003e\\u003cp\\u003eEl monto máximo por operación a transferir para cuentas a otros Bancos es de $7.000.000.\\u003c/p\\u003e\\u003c/li\\u003e\\u003cli\\u003e\\u003cp\\u003eEl monto máximo diario a transferir a un mismo RUT destinatario, misma cuenta, mismo Banco es de $50.000.000.\\u003c/p\\u003e\\u003c/li\\u003e\\u003c/ul\\u003e\"}}"
+meta: {
+name: "Condiciones PNOL",
+slug: "condiciones-pnol",
+tags: [ ],
+type: "legalesprivado",
+uuid: "c9aab26d-434d-44c7-a514-af646caa42a8",
+space: "pyme",
+author: { },
+locale: "es",
+excerpt: "",
+private: false,
+targets: [ ],
+category: null,
+created_at: "2024-10-11T11:40:03.000-03:00",
+updated_at: "2024-10-11T11:40:44.000-03:00",
+published_at: "2024-10-11T11:40:44.000-03:00",
+unpublish_at: null,
+version_type: "current",
+category_name: null,
+category_slug: null,
+available_locales: [
+"es"
+]
+},
+fields: {
+Contenido_html: "<p>Condiciones de Servicio.</p><ul><li><p>Permite efectuar Abonos en el día a Cuentas Corrientes o Vistas del Bci u Otros Bancos en forma masiva.</p></li><li><p>Opera todos los días de la semana, excepto entre las 22:45 y las 00:00 Hrs. donde no es posible recepcionar ni procesar nóminas de pago. Las nóminas diferidas deberán ser firmadas antes de las 23:30.</p></li><li><p>Al momento de ejecutarse el pago de la nómina, se realizará un cargo único en la cuenta corriente del cliente pagador</p></li> <li><p>En caso que existiese pagos rechazados durante el proceso de pago, los fondos serán abonados en la cuenta corriente del cliente pagador las próximas horas.</p></li><li><p>Al momento de firmar el último Apoderado autorizado la nomina modalidad de pago en línea y no posea los fondos disponibles en ese momento, la nómina podrá pasar a modalidad diferida con el consentimiento del cliente, a la espera de la disponibilidad de los fondos en cuenta corriente, hasta las 23:45 Hrs.</p></li><li><p>Al momento de ejecutarse el pago de la nómina, independiente de la modalidad de cargo (en línea o diferida) y la cuenta corriente no posea los fondos disponibles, la nómina no será pagada y esta quedará sin fondos.</p></li> <li><p>El monto máximo por operación a transferir para cuentas a otros Bancos es de $7.000.000.</p></li><li><p>El monto máximo diario a transferir a un mismo RUT destinatario, misma cuenta, mismo Banco es de $50.000.000.</p></li></ul>"
+}
 }
